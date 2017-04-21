@@ -1,0 +1,31 @@
+{	
+	"data":[{
+		"id":"1",
+		"content":{
+			"state":1,
+			"subtitle":"第一条明细"
+		}
+	},
+	{
+		"id":"2",
+		"content":{
+			"state":2,
+			"subtitle":"第二条明细"
+		}
+	},
+	{
+		"id":"3",
+		"content":{
+			"state":3,
+			"subtitle":"第三条明细"
+		}
+	},
+	{
+		"id":"4",
+		"content":{
+			"state":4,
+			"subtitle":"第四条明细"
+		}
+	}
+	]
+}

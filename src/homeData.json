@@ -1,0 +1,12 @@
+{
+	"data":{"titler":"集中培训",
+	"adsSrc":"src/images/ads.jpg",
+	"fronter":"/hello",
+	"adsTitle":"主题：惠氏销售技巧培训",
+	"menuList":[
+		 {"name":"学习","path":"/list","className":"study"},
+		 {"name":"请假","path":"/list","className":"leave"},
+		 {"name":"考试","path":"/list","className":"exam"},
+		 {"name":"签到","path":"/list'","className":"signin"}
+	]}
+}
