@@ -1,7 +1,7 @@
-{	
+﻿{	
 	"data":[
 		{
-			"img":"src/images/test.jpg",
+			"img":"src/images/pic1.jpg",
 			"title":"婴幼儿集中培训1",
 			"address":"地址：上海市浦东新区张江路185号401A室",
 			"tags":["集中培训","标签项一","标签项二","标签项三"],
@@ -15,14 +15,14 @@
 			"date":"2017-03-26 09:00"					
 		},
 		{
-			"img":"src/images/test.jpg",
+			"img":"src/images/pic1.jpg",
 			"title":"婴幼儿集中培训3",
 			"address":"地址：上海市浦东新区张江路185号303B",
 			"tags":["集中培训","标签项九","标签项二","标签项三"],
 			"date":"2017-03-26 09:00"					
 		},
 		{
-			"img":"src/images/test.jpg",
+			"img":"src/images/pic1.jpg",
 			"title":"婴幼儿集中培训4",
 			"address":"地址：上海市浦东新区张江路185号",
 			"tags":["集中培训","标签项一","标签项二","标签项三"],
